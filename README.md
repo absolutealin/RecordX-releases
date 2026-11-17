@@ -18,6 +18,6 @@ RecordX needs a license key to run. The installer on its own does not grant acce
 
 ## Updates
 
-Once installed, RecordX checks for new versions by itself. When one is ready it asks you to restart, then installs it.
+Once installed, RecordX checks for new versions by itself. When one is ready it shows a notification, installs it and restarts by itself a few seconds later. Nothing to click.
 
 Older versions are listed under [Releases](https://github.com/absolutealin/RecordX-releases/releases).
